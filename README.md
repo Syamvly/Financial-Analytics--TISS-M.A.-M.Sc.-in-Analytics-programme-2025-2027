@@ -1,0 +1,2 @@
+# Financial-Analytics--TISS-M.A.-M.Sc.-in-Analytics-programme-2025-2027
+This course covers financial analytics for decision-making under uncertainty, blending portfolio theory, risk measurement, and derivatives with real-world data. Rather than focusing solely on prediction, the curriculum emphasizes risk, volatility, and market behavior. It concludes with a professional-grade integrated case study.
