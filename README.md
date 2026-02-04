@@ -44,31 +44,31 @@ PO8: Develop Ethical Leadership
 
 - Introduction to Financial Analytics: Financial analytics: scope and applications; uncertainty, risk and certainty; role of data in financial decision-making.
 
-Companies, Securities, and Market Behaviour: Concept of company and stock; stock market functioning; market indices with reference to NIFTY; Efficient Market Hypothesis; behavioural finance.
+- Companies, Securities, and Market Behaviour: Concept of company and stock; stock market functioning; market indices with reference to NIFTY; Efficient Market Hypothesis; behavioural finance.
 
-Fundamental and Technical Analysis: Fundamental analysis of securities; technical analysis and market timing; price trends and market signals.
+- Fundamental and Technical Analysis: Fundamental analysis of securities; technical analysis and market timing; price trends and market signals.
 
-Financial Returns and Volatility: Measurement of financial returns; volatility as a risk measure; volatility clustering and stylized facts.
+- Financial Returns and Volatility: Measurement of financial returns; volatility as a risk measure; volatility clustering and stylized facts.
 
-Portfolio Theory and Asset Pricing: Portfolio diversification and correlation; systematic and unsystematic risk; Capital Asset Pricing Model (CAPM); Arbitrage Pricing Theory (APT).
+- Portfolio Theory and Asset Pricing: Portfolio diversification and correlation; systematic and unsystematic risk; Capital Asset Pricing Model (CAPM); Arbitrage Pricing Theory (APT).
 
-Fixed Income Markets and Interest Rate Risk: Bond instruments and pricing; yield curve analysis; duration and convexity; interest rate risk.
+- Fixed Income Markets and Interest Rate Risk: Bond instruments and pricing; yield curve analysis; duration and convexity; interest rate risk.
 
-Portfolio Risk Measurement: Measurement of portfolio risk; Value at Risk (VaR); Expected Shortfall; limitations of risk measures.
+- Portfolio Risk Measurement: Measurement of portfolio risk; Value at Risk (VaR); Expected Shortfall; limitations of risk measures.
 
-Time Series Analysis and Forecasting: Stationarity and time series properties; ARIMA models; forecasting returns and volatility.
+- Time Series Analysis and Forecasting: Stationarity and time series properties; ARIMA models; forecasting returns and volatility.
 
-Volatility Modeling: ARCH and GARCH models; likelihood estimation; volatility forecasting.
+- Volatility Modeling: ARCH and GARCH models; likelihood estimation; volatility forecasting.
 
-Extreme Risk and Dependence Modeling: Fat tails and non-normal distributions; Extreme Value Theory; copulas and tail dependence.
+- Extreme Risk and Dependence Modeling: Fat tails and non-normal distributions; Extreme Value Theory; copulas and tail dependence.
 
-Numerical Methods and Simulation: Numerical techniques in finance; Monte Carlo simulation; scenario and stress testing.
+- Numerical Methods and Simulation: Numerical techniques in finance; Monte Carlo simulation; scenario and stress testing.
 
-Derivatives and Risk Hedging: Derivatives markets; options, futures, swaps; hedging strategies including protective puts.
+- Derivatives and Risk Hedging: Derivatives markets; options, futures, swaps; hedging strategies including protective puts.
 
-Portfolio Optimization: Mean–variance optimization; efficient frontier; practical constraints in portfolio optimization.
+- Portfolio Optimization: Mean–variance optimization; efficient frontier; practical constraints in portfolio optimization.
 
-Integrated Case Study and Decision-Making: Integrated financial analytics case; interpretation of analytical results; investment decision-making under uncertainty.
+- Integrated Case Study and Decision-Making: Integrated financial analytics case; interpretation of analytical results; investment decision-making under uncertainty.
 
 
 **PHASE 1: FOUNDATION (Market Intuition)**
