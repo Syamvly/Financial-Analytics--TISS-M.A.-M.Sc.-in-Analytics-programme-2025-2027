@@ -38,17 +38,9 @@ PO8: Develop Ethical Leadership
 
 1 = Low / Indirect contribution, 2 = Moderate contribution 3 = Strong / Direct contribution
 
-Rationale (for Academic Committees – optional note)
 
-Strong alignment with PO1 (Advanced Analytical Skills) through quantitative and risk analytics focus.
 
-Moderate alignment with PO2, PO6, PO7 via market behaviour, case studies, and global–local financial contexts.
-
-Selective and defensible linkage to PO4 (Analytics & Sustainability) through risk, ESG, and long-term decision perspectives (not overstated).
-
-Strong contribution to PO8 (Ethical Leadership) at the decision-making and case-study level.
-
-Content of the Syllabus
+**Content of the Syllabus**
 
 Introduction to Financial Analytics: Financial analytics: scope and applications; uncertainty, risk and certainty; role of data in financial decision-making.
 
