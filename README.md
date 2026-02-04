@@ -42,11 +42,11 @@ PO8: Develop Ethical Leadership
 
 **Content of the Syllabus**
 
-*Introduction to Financial Analytics: Financial analytics: scope and applications; uncertainty, risk and certainty; role of data in financial decision-making.
+- Introduction to Financial Analytics: Financial analytics: scope and applications; uncertainty, risk and certainty; role of data in financial decision-making.
 
-*Companies, Securities, and Market Behaviour: Concept of company and stock; stock market functioning; market indices with reference to NIFTY; Efficient Market Hypothesis; behavioural finance.
+Companies, Securities, and Market Behaviour: Concept of company and stock; stock market functioning; market indices with reference to NIFTY; Efficient Market Hypothesis; behavioural finance.
 
-*Fundamental and Technical Analysis: Fundamental analysis of securities; technical analysis and market timing; price trends and market signals.
+Fundamental and Technical Analysis: Fundamental analysis of securities; technical analysis and market timing; price trends and market signals.
 
 Financial Returns and Volatility: Measurement of financial returns; volatility as a risk measure; volatility clustering and stylized facts.
 
