@@ -30,6 +30,8 @@ PO7: Cultivate Global and Local Perspectives
 
 PO8: Develop Ethical Leadership
 
+**CO-PO Matrix**
+
 |  | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CO1 | 3 | 2 | 1 | 1 | 2 | 2 | 2 | 1 |
