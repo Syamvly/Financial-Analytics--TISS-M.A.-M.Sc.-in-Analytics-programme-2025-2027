@@ -6,11 +6,11 @@ This course introduces students to the principles and applications of financial 
 
 Course Objectives
 
-To develop an analytical understanding of financial markets, risk, and uncertainty using data-driven approaches.
+1. To develop an analytical understanding of financial markets, risk, and uncertainty using data-driven approaches.
 
-To equip students with tools for portfolio construction, risk measurement, forecasting, hedging, and optimization.
+2. To equip students with tools for portfolio construction, risk measurement, forecasting, hedging, and optimization.
 
-To enable informed financial decision-making through integrated case analysis and professional judgment.
+3. To enable informed financial decision-making through integrated case analysis and professional judgment.
 
 Program Objectives (POs)
 
