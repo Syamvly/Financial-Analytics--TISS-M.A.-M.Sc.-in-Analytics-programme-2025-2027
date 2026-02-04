@@ -1,10 +1,10 @@
-COURSE TITLE: Financial Analytics
+**COURSE TITLE: Financial Analytics**
 
-Course Description
+**Course Description**
 
 This course introduces students to the principles and applications of financial analytics for decision-making under uncertainty. It integrates financial markets, portfolio theory, risk measurement, forecasting, derivatives, and optimization using real-world data and cases. Emphasis is placed on understanding risk, volatility, and market behaviour rather than pure prediction. The course culminates in an integrated case study reflecting professional financial analytics practice.
 
-Course Objectives
+**Course Objectives**
 
 1. To develop an analytical understanding of financial markets, risk, and uncertainty using data-driven approaches.
 
@@ -12,7 +12,7 @@ Course Objectives
 
 3. To enable informed financial decision-making through integrated case analysis and professional judgment.
 
-Program Objectives (POs)
+**Program Objectives (POs)**
 
 PO1: Develop Advanced Analytical Skills
 
@@ -70,23 +70,8 @@ Portfolio Optimization: Mean–variance optimization; efficient frontier; practi
 
 Integrated Case Study and Decision-Making: Integrated financial analytics case; interpretation of analytical results; investment decision-making under uncertainty.
 
-Justification for the Course Syllabus: Financial Analytics
 
-The syllabus for the course Financial Analytics has been designed to bridge the gap between foundational financial concepts and real-world analytical decision-making. Contemporary financial roles require graduates not only to understand financial instruments and markets, but also to apply data-driven analytical tools under conditions of uncertainty. The proposed syllabus addresses this requirement through a structured progression from conceptual understanding to professional analytics, culminating in an integrated case study that mirrors real institutional practices.
-
-The initial units of the syllabus focus on financial uncertainty, market behaviour, and security analysis, enabling students to understand how financial decisions differ fundamentally from accounting or operational decisions. By introducing concepts such as company–stock distinction, market indices (with specific reference to NIFTY), behavioural finance, and fundamental and technical analysis, the syllabus establishes a strong intuitive foundation. This prepares students to interpret market movements and investment signals before engaging with formal quantitative tools.
-
-Subsequent units emphasize returns, volatility, portfolio theory, and asset pricing, which are essential to understanding risk at both individual asset and portfolio levels. These topics are not presented in isolation; instead, they are continuously contextualized within portfolio construction decisions. This ensures that students appreciate diversification, correlation, and systematic risk as practical considerations rather than abstract theories.
-
-The syllabus then advances to professional risk analytics, including portfolio risk measurement, Value at Risk, Expected Shortfall, volatility modeling, time-series forecasting, and extreme risk modeling. These topics reflect tools widely used in banks, asset management firms, and risk management functions. Importantly, the inclusion of limitations of models, tail risk, and stress testing ensures that students develop critical judgment and do not rely blindly on analytical outputs.
-
-A key strength of the syllabus is the integration of derivatives and hedging strategies as risk management instruments rather than speculative tools. By positioning options and other derivatives within the context of portfolio protection and risk transfer, the syllabus aligns with real-world institutional practices and responsible financial decision-making.
-
-The course culminates in portfolio optimization and an integrated case study, which serves as a capstone learning experience. The case study requires students to synthesize concepts from across the syllabus—portfolio construction, optimization, hedging, and selective trading—into a coherent decision framework. This mirrors how financial professionals operate across equity, derivatives, and risk desks, thereby providing meaningful real-world exposure.
-
-Overall, the syllabus is deliberately structured to combine conceptual clarity, analytical rigor, and experiential learning. The use of real Indian market data, NIFTY-based analysis, and a continuous case study ensures relevance to current financial markets. By the end of the course, students are equipped not only with technical knowledge, but also with the analytical thinking and professional judgment required for careers in financial analytics, risk management, and portfolio management.
-
-PHASE 1: FOUNDATION (Market Intuition)
+**PHASE 1: FOUNDATION (Market Intuition)**
 
 Company & Stock -   Market Behaviour (NIFTY)- FA–TA (What & When)-
 
@@ -94,7 +79,7 @@ Returns & Volatility-   Portfolio Construction
 
 Students understand why risk exists and why analysis is needed.
 
-PHASE 2: PROFESSIONAL ANALYTICS (Risk & Decisions)
+**PHASE 2: PROFESSIONAL ANALYTICS (Risk & Decisions)**
 
 Portfolio Risk Measurement- Forecasting & Volatility Models -
 
@@ -102,7 +87,7 @@ Extreme Risk & Stress Thinking - Derivatives & Hedging- Portfolio Optimization -
 
 Students learn how professionals measure, manage, and decide under risk.
 
-CASE-STUDY OVERLAY
+**CASE-STUDY OVERLAY**
 
 Build Portfolio - Optimize Structure- Protect Downside (Hedging)
 
